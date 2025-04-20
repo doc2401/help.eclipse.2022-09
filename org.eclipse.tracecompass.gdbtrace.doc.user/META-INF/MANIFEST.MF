@@ -1,0 +1,126 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.2
+Build-Jdk-Spec: 11
+Bundle-ManifestVersion: 2
+Bundle-Name: %Bundle-Name
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 8.1.0.202209071845
+Bundle-Localization: plugin
+Bundle-SymbolicName: org.eclipse.tracecompass.gdbtrace.doc.user;singleto
+ n:=true
+Require-Bundle: org.eclipse.help
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/tracecom
+ pass/org.eclipse.tracecompass.git;path="doc/org.eclipse.tracecompass.gd
+ btrace.doc.user";commitId=a661b318ac84b5a0782682e9c3781545b2819df5
+Bundle-License: Eclipse Public License 2.0
+
+Name: index/segments_1
+SHA-256-Digest: WKlVhhLXgXpTFeuP9iNii/lXQvEiHpel9EGHGoqD0LE=
+
+Name: plugin.xml
+SHA-256-Digest: T6IVQXJxKBO1KkMYCN3zG5UmX4GFwsmOgdV5oBOmJw4=
+
+Name: doc/Importing-Tracepoint-Data.html
+SHA-256-Digest: 7ghzqpck7wcr3+UiOmM9kJBOCUfnWVtufHpT1Qblwuw=
+
+Name: index/indexed_docs
+SHA-256-Digest: Q7J4Z4WosHH2nZzt9PLAG81HCllaR+PdnGv9Srrp6V8=
+
+Name: doc/images/home.gif
+SHA-256-Digest: 4cB3uzSzawBtPtcQboiWU16+RMytdhxFuZZGzwENCF8=
+
+Name: doc/Collecting-Tracepoint-Data.html
+SHA-256-Digest: DWyd1rF3JjaraxqLuTRWyZbxgtrXd36/cnLSu01v7Pg=
+
+Name: index/_1_Lucene84_0.pos
+SHA-256-Digest: dwOG5T3CYkyKLJIOmaxZaSy3E3WUDktiryeyZRBlnQc=
+
+Name: index/_1.si
+SHA-256-Digest: phAmqjDOnBmxcz1uUllQ22l2HaXn1UWaHlJIhXndoZ4=
+
+Name: index/_1_Lucene84_0.tim
+SHA-256-Digest: Do0heIuI/YpaZjG2iwWYeShWAgguJAmrpZzOFN0jFVI=
+
+Name: doc/images/gdb_icon16.png
+SHA-256-Digest: T5c7B2Z97Y+3t4GPWKutPe6tb3HRcCkB2ygLpg4DE2k=
+
+Name: doc/User-Guide.html
+SHA-256-Digest: MSTMtI0ZOpgK3nE4VIIh4Qv5DULMCvtdp19i/RQnrHM=
+
+Name: index/_1.nvm
+SHA-256-Digest: UuCSnWXKAwQWwqssG3jK69x9rwDTdPO9ShJnPBeIEfA=
+
+Name: index/_1_Lucene84_0.tip
+SHA-256-Digest: D4Tfa6BSX9sYsA4DW8d6PnVeKKdQHoEEwWTeU9RasYQ=
+
+Name: index/_1.fnm
+SHA-256-Digest: QYCI+B2MEqgeLhv5w5ALKBIgQrRhd223XsH4csxUYpw=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass.g
+ dbtrace.doc.user/pom.properties
+SHA-256-Digest: RShmbxEGSs0Urfoc41kOS7y+jG5HU6sYfigkX5LxXbo=
+
+Name: index/_1.fdx
+SHA-256-Digest: zEUofyOgckE6obQHv3cddoRHPShOtVJ3hUnT5hfJoe4=
+
+Name: book.css
+SHA-256-Digest: UCuR8Qyhx1o7HqT9o8lvZb2d5k/w0hlkeZGQT0LLn0Y=
+
+Name: plugin.properties
+SHA-256-Digest: mKW8jzkXbMU4pSdX8QV86lH6yCA37aw6PnHmFSgLnEs=
+
+Name: doc/images/next.gif
+SHA-256-Digest: IFqoxpwo9EXNAc2xh0M2KmlZWC1RBMxv8nWCwhMwRtI=
+
+Name: doc/User-Guide-toc.xml
+SHA-256-Digest: X/xWQ6WYBTTXBGk+QEq/21Siva3OFRsQDdTbOsqixUU=
+
+Name: index/_1.fdt
+SHA-256-Digest: pdj2ELkJeX3+/xqja3Pf2sX5yjusg5HttW4lkOgy63c=
+
+Name: doc/Getting-Started.html
+SHA-256-Digest: OQ7wPqh2vE7IiocjJHES0wmA5rCaNPRcC08lTQc5cMA=
+
+Name: about.html
+SHA-256-Digest: 7mbS+ztMDS7S5/aYvJ7U49bPd/pcr0CtAylhJdsaxfA=
+
+Name: index/write.lock
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: doc/User-Guide.mediawiki
+SHA-256-Digest: i7tXYualACOJ2SRiuF5Hekrp8SKLEZg4upeK33bXsf8=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass.g
+ dbtrace.doc.user/pom.xml
+SHA-256-Digest: QW9IORy5W7IA/l+mu+2eApB9lf0Rx4o/GxZK4X76xd8=
+
+Name: index/_1_Lucene84_0.doc
+SHA-256-Digest: dImLUUW4OX7Hk9IgQkYh45zAdmppm+PvpvY6bLF0u6A=
+
+Name: doc/images/GDBTracePerspective.png
+SHA-256-Digest: UjPaIio3SH4+9wxAEGyiuP+fFoaaF5NFp3w/oFPx0dk=
+
+Name: doc/References.html
+SHA-256-Digest: CIRc60AdjAjmsmF00QxMCziDvudNIx/k8xPsgnzX06o=
+
+Name: doc/GDB-Trace-Perspective.html
+SHA-256-Digest: Y18rQ9RnVhl9m+0ChpfHMdtV6XVBRjQO4IXRUz1ZrfI=
+
+Name: index/indexed_dependencies
+SHA-256-Digest: h9jjt/0AmqifcgmheKNTV2uDk78gr3026xmj34tIhrM=
+
+Name: index/_1.nvd
+SHA-256-Digest: K6SJOfwGi7qev97DoZWTyB0numZKgY69SaaSDudxUEA=
+
+Name: index/indexed_contributions
+SHA-256-Digest: phJnS8wPjO+qYQi2ktAKV8v6WesN+rluWT6G2N1fbr8=
+
+Name: doc/Overview.html
+SHA-256-Digest: XRRO5C7Q4of7GOTvzbOS4P3e55pZFCdjCrGd/0SgN50=
+
+Name: doc/images/prev.gif
+SHA-256-Digest: I4Bs/TypPpF2FValAaI3lNDWuD4KFikkGjdaeiyR4Yc=
+
+Name: doc/Visualizing-Tracepoint-Data.html
+SHA-256-Digest: 9D8IS8EHwZ3+oKhmrNs/k3yOaq2E0pjYgqFLk9ZQ2Bo=
+

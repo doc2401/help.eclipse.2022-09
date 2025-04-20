@@ -1,0 +1,109 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.emf.mwe.doc;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 1.7.0.v20220519-1115
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.help
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+
+Name: about.properties
+SHA1-Digest: Mkynkuv5iJnzCjIAG9gBhcyS9t4=
+
+Name: plugin.xml
+SHA1-Digest: HwF2b1xCvLTrUGZkgdThatB1y5o=
+
+Name: index/indexed_docs
+SHA1-Digest: 76bid100XBPQehNJGxUHJgQjri4=
+
+Name: help/workflow_reference_workflow_components.html
+SHA1-Digest: yqRQ0LzzXJF9rdXesISDzEEPxPg=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.mwe.doc/pom.propert
+ ies
+SHA1-Digest: ui8gwd53JKcTHeYsfa+dxF/Ic3c=
+
+Name: index/deletable
+SHA1-Digest: kGnKeOdFCihRc0MbPlLFwlKZ5HM=
+
+Name: about.mappings
+SHA1-Digest: Vzb7TFjW4D8kxrtmNf4ad5sfqK8=
+
+Name: eclipse48.png
+SHA1-Digest: a2zwbZbQN07bejLQuMzknmrTv18=
+
+Name: about.ini
+SHA1-Digest: KQMVTFcyVja5dvVmIh2o+qDsslY=
+
+Name: eclipse_lg.gif
+SHA1-Digest: V1bzzsRNTt2D6InH92BXO4We/X0=
+
+Name: help/workflow_reference_workflow_configuration.html
+SHA1-Digest: WJN9bo/NqxErbHRW1haBaZAzIE8=
+
+Name: plugin.properties
+SHA1-Digest: t05vxPB0EzwvGs1C8oU9uX1Z/q4=
+
+Name: index/_1.cfs
+SHA1-Digest: aALzOyK53g0IE9j6r1fKFM8cOzw=
+
+Name: help/images/java_object_graph.GIF
+SHA1-Digest: d6G3zr8Ed+ffL7OcpJJXufLI/fc=
+
+Name: modeling32.png
+SHA1-Digest: ADlLWFV0eQ74YnLvHnPFkYLeLrs=
+
+Name: about.html
+SHA1-Digest: uiDr+T6MD4Q9BYXiKnXP68LGYJE=
+
+Name: images/java_object_graph.GIF
+SHA1-Digest: d6G3zr8Ed+ffL7OcpJJXufLI/fc=
+
+Name: eclipse.gif
+SHA1-Digest: T1wNQMsCDI+zMmvIKEUcLP+hioo=
+
+Name: help/book.css
+SHA1-Digest: +C4pVg6QxGAtOJlFrTlbYxINUzc=
+
+Name: help/index.html
+SHA1-Digest: Wh3liFcYLFBIUwZHxmglXojERXk=
+
+Name: eclipse32.png
+SHA1-Digest: eCk/A3/COXL3S6qAVDOSrlsqmLw=
+
+Name: META-INF/maven/org.eclipse.emf/org.eclipse.emf.mwe.doc/pom.xml
+SHA1-Digest: e32LYjslXBslFlbfS8i4YKnJ32w=
+
+Name: help/workflow_reference_included_workflow_components.html
+SHA1-Digest: yDOPZKXD8VfSrJFXhMLzLXSlfRI=
+
+Name: index/segments
+SHA1-Digest: GvjN+Lr0t+b8oITWiuU/XOHGaMU=
+
+Name: eclipse24.gif
+SHA1-Digest: fVYlmbBcOmBqAlq/moTwjvx5pZ8=
+
+Name: index/indexed_dependencies
+SHA1-Digest: G/33MWIberVUA5yiO4bt4T3x0n8=
+
+Name: eclipse48.gif
+SHA1-Digest: Q3r2nQqzsGatJIxCoe+d/wS1QFo=
+
+Name: eclipse32.gif
+SHA1-Digest: OEzrrdlwkZJntOw0ED9ewvFb4ms=
+
+Name: index/indexed_contributions
+SHA1-Digest: kGxcXvTbx/hwl5b5sLXrzX9m9tY=
+
+Name: toc.xml
+SHA1-Digest: FDoQPdkAd5vWKuk6R+ecoyZ36MI=
+
+Name: help/index.xml
+SHA1-Digest: ox9q+pEvn/3kExAa1uTrVcBrJj0=
+
+Name: eclipse.png
+SHA1-Digest: 4FXDsP8CZa2WdcHWX8LGSlwKCtE=
+
